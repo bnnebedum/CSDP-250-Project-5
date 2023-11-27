@@ -8,7 +8,8 @@
 # Description
     This program creates a binary search tree linked list by inserting 40 randomly generated integers. 
     The program will first display the tree inorder, prompt the user to delete a value from the tree, 
-    then display the updated tree using postorder traversal. It then uses a recursive function to test if the tree is an AVL tree.
+    then display the updated tree using postorder traversal. 
+    It then uses a recursive function to test if the tree is an AVL tree.
   
 # Author:
     Bede Nnebedum
