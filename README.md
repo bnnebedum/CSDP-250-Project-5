@@ -1,9 +1,8 @@
 # CSDP 250 Project 5
-    This program contains four files:
+    This program contains three files:
         1) Header file (BST.h): to store the class definition
         2) C++ file (BST.cpp): to store the definiton of each member class function
         3) C++ file (main.cpp): the place to start this program
-        4) README.txt
 
 # Description
     This program creates a binary search tree linked list by inserting 40 randomly generated integers. 
